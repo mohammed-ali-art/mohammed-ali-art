@@ -3,8 +3,16 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" />
 
 # Hi 👋 I'm Mohammed
-### Frontend Developer in Progress 🚀
+###junior Frontend Developer 🚀
+<p>
+  <a href="https://t.me/@MB01042">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 
+  <a href="https://www.instagram.com/eng.mohammed.ali_.24?igsh=NmJ1enlpNDJ2eHRv">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 </div>
 
 ---
