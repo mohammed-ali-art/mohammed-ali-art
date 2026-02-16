@@ -14,7 +14,7 @@
 - 🌱 Currently learning **React & Advanced JavaScript**
 - 💡 Passionate about building modern web interfaces
 - 🎯 Goal: Become a Professional Frontend Developer
-- 🧠 I also studied **C++** at university (fundamentals & problem solving)
+- 🧠 I also studied **C++** at university (fundamentals)
 
 ---
 
