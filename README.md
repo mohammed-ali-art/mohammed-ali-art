@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" />
 
 # Hi 👋 I'm Mohammed
 ### Frontend Developer in Progress 🚀
@@ -60,7 +60,7 @@
 
 ## 🌐 Connect With Me
 - LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your@email.com
+- Email: mohammedali.a2z313@gmail.com
 
 ---
 
