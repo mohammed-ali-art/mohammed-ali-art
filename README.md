@@ -1,28 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">Frontend Developer | Learning Everyday 🚀</h3>
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
+
+# Hi 👋 I'm Mohammed
+### Frontend Developer in Progress 🚀
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **JavaScript & React**
-- 💻 I love building web interfaces
-- 🎯 Goal: Become a professional Frontend Developer
-- 📫 How to reach me: your@email.com
+## 👨‍💻 About Me
+- 🎓 Computer Science Student
+- 🌱 Currently learning **React & Advanced JavaScript**
+- 💡 Passionate about building modern web interfaces
+- 🎯 Goal: Become a Professional Frontend Developer
+- 🧠 I also studied **C++** at university (fundamentals & problem solving)
 
 ---
 
-### 🚀 Frontend Stack
+## 🧰 Frontend Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
   <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
 
 ---
 
-### 🛠 Tools
+## 🧠 Programming Knowledge
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+> Learned in university for problem solving & programming basics
+
+---
+
+## 🛠 Tools I Use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -31,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
@@ -42,8 +58,11 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> |
-  <a href="https://twitter.com/YOUR_USERNAME">Twitter</a>
-</p>
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- Email: your@email.com
+
+---
+
+### ✨ Quote I Believe In
+> Small daily improvements lead to stunning results.
