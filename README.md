@@ -59,7 +59,7 @@
 ---
 
 ## 🌐 Connect With Me
-//- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+
 - Email: mohammedali.a2z313@gmail.com
 
 ---
